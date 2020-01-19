@@ -6,7 +6,7 @@
 P01-P10 python程式範例 <br>
 w01-w10 web:bit程式範例
 
-``` python
+``` javascript
 print("132") 
 
 ```
