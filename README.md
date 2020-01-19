@@ -2,7 +2,7 @@
 ## 台北商業大學 呂芷瑛
 
 ### python程式設計
-- p01.py 
+- p01.py 秤世紀處邏輯
 ```python
 from microbit import *
 import radio
@@ -22,7 +22,7 @@ while True:
 - p03.py
 
 ### micro:bit設計
-- m01.py
+- m01.py 
 - m02.py
 - m03.py
 
