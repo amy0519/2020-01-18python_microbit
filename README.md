@@ -32,7 +32,7 @@ while True:
 ***
 ### web:bit程式範例
 - w01.json
-```json
+```javascript
 (async function() {
 
   boardReady({
