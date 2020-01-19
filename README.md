@@ -1,7 +1,5 @@
-# 2020-01-18python_microbit
-## 2020_python_micor:bit
-
-20201/18-1/19北商Micro:bit研習營
+# 2020/1/18-1/19北商Micro:bit研習營
+## 台北商業大學 王曉鈴
 
 ### python程式設計
 - p01.py
