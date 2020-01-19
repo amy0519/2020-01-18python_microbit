@@ -2,9 +2,9 @@
 ## 台北商業大學 呂芷瑛
 
 ### python程式設計
-p01.py 
-p02.py
-p03.py
+- p01.py 
+- p02.py
+- p03.py
 
 ### micro:bit設計
 
