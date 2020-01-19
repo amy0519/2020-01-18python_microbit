@@ -12,7 +12,3 @@
 - w03.json
 
 
-``` javascript
-print("132") 
-
-```
