@@ -3,8 +3,14 @@
 
 20201/18-1/19北商Micro:bit研習營
 
-P01-P10 python程式範例 <br>
-w01-w10 web:bit程式範例
+### python程式設計
+- p01.py
+- p02.py
+- p03.py
+
+### w01-w10 web:bit程式範例
+
+
 
 ``` javascript
 print("132") 
