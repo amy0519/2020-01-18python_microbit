@@ -2,7 +2,7 @@
 ## 台北商業大學 呂芷瑛
 
 ### python程式設計
-- p01.py \
+- p01.py 
 ```python
 from microbit import *
 import radio
